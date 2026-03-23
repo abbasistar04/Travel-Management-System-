@@ -1,0 +1,6 @@
+export { AirTravelServicesPage } from './AirTravelServicesPage'
+export { VisaServicesPage } from './VisaServicesPage'
+export { OverseasTravelTourismPage } from './OverseasTravelTourismPage'
+export { ServicesPage } from './ServicesPage'
+export { TravelServicePage } from './TravelServicePage'
+export { AccommodationServicePage } from './AccommodationServicePage'
